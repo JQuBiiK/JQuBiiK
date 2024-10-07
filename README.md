@@ -28,10 +28,10 @@
 At the moment I already have experience in commercial development in JavaScript, PHP and Python. I am a member of a staff of programmers who develop crm solutions for Bitrix24, Amocrm and ZohoCRM.
 I also develop bots for workflow automation and customer engagement. Previously I was Front-End lead on several commercial projects. In addition, I participated in the development of large projects such as:
 </p>
-- <a href="https://kontinent26.ru" style="color: #fff; text-decoration: underline">Континент</a>
-<br>- <a href="https://azottech.ru" style="color: #fff; text-decoration: underline">Азотех</a>
-<br>- <a href="https://marmamebel.ru/" style="color: #fff; text-decoration: underline">Марма мебель</a>
-<br>- <a href="https://fenixmedica.ru/" style="color: #fff; text-decoration: underline">Fenix Medica</a>
+- <a href="https://kontinent26.ru" style="color: #fff; text-decoration: none"><b>Континент</b></a>
+<br>- <a href="https://azottech.ru" style="color: #fff; text-decoration: none"><b>Азотех</b></a>
+<br>- <a href="https://marmamebel.ru/" style="color: #fff; text-decoration: none"><b>Марма мебель</b></a>
+<br>- <a href="https://fenixmedica.ru/" style="color: #fff; text-decoration: none"><b>Fenix Medica</b></a>
 
 ###
 
